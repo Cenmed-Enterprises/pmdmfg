@@ -1,0 +1,112 @@
+.footertext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+	color: #000000;
+	font-style:italic;
+	
+}
+.text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+	color: #000000;
+
+}
+.whiteB {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #FFFFFF;
+	line-height: 20px;
+}
+.contentheading {
+	font-family: verdana, Arial, Helvetica, sans-serif;
+	font-size: 26px;
+	font-weight: normal;
+	color: #005099;
+
+	
+}
+.headingsmal2 {
+	font-family: Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bolder;
+	color: #005099;
+
+	
+}
+.list {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #181818;
+	line-height: 18px;
+
+}
+.black {
+	font-family: verdana, Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	color: #000000;
+	line-height: 20px;
+}
+
+.green {
+	font-family: verdana, Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	color: #0fab42;
+	line-height: 20px;
+}
+
+.greentext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #0fab42;
+	line-height: 18px;
+}
+.headingsmal3 {
+	font-family: Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bolder;
+	color: #0fab42;
+
+	
+}
+.textheading {
+	font-family: verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bolder;
+	color: #464646;
+
+	
+}
+.tbl {
+	border: 1px solid #cac1c1;
+}
+.tb2 {
+	border: 3px solid #952B2B;
+}
+.tb3 {
+	border: 3px solid #A5A4A4;
+}
+.testsmall {
+	font-family: verdana, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #005099;
+
+	
+}
+
+
+
+
+
+
+
+
+
+
